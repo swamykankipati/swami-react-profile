@@ -21,10 +21,10 @@ render (){
       <p>{Data.Basics.mobile}</p>
       <p>{Data.Basics.email}</p>
       <p>{Data.Basics.location}</p>
-      <a href="https://github.com/KalyanPaladugu/" className="a"><i class="fab fa-github-square"></i> </a>
-      <a href="www.linkedin.com/in/kalyanpaladugu" className="a"> <i class="fab fa-linkedin"></i> </a>
-       <a href="https://twitter.com/1243kalyan1994" className="a"> <i class="fab fa-twitter-square"></i> </a>
-       <a href="https://www.facebook.com/paladugu.kalyanchakravarthi" className="a"> <i class="fab fa-facebook"></i> </a>
+      <a href="https://github.com/swamykankipati/" className="a"><i class="fab fa-github-square"></i> </a>
+      <a href="www.linkedin.com/in/swamykankipati" className="a"> <i class="fab fa-linkedin"></i> </a>
+       <a href="https://twitter.com/swamykankipati" className="a"> <i class="fab fa-twitter-square"></i> </a>
+       <a href="https://www.facebook.com/swamykankipati" className="a"> <i class="fab fa-facebook"></i> </a>
 
       </div>
     </div>
