@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/swami-react-profile/precache-manifest.f5a99fa4688761e902a614c8b7792f1e.js"
+  "/swami-react-profile/precache-manifest.e8670f8e83ac0a8d024b957f09140f0d.js"
 );
 
 self.addEventListener('message', (event) => {
