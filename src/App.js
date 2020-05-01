@@ -1,26 +1,37 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter as Router, Link, Route} from 'react-router-dom';
+import './css/bootstrap.min.css';
+import Profile from './img/profile.png';
+import Resume from './components/Resume';
 
-function App() {
+class App extends React.Component  {
+  render(){
+    var styles={
+    boxShadow:'0px 6px 6px -6px #000',
+    top:'100px'
+  };
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <Router>
+    <Route exact path='/' render={() =>(
+      <div className="col-md-3 offset-4" >
+      <div className="card bg-default" style={styles}>
+      <div className="card-body" >
+                <img src={Profile} alt="Profile_Pic"/>
+                <h4>Apparao Swami K</h4>
+                <Link to="/Resume" className="btn btn-primary btn-block btn-sm" style={styles}> View Profile </Link>
+
+      </div>
+      </div>
+      </div>
+    )} />
+
+  <Route path="/swami-react-profile" exact component={Resume} />
+    </Router>
     </div>
   );
+}
 }
 
 export default App;

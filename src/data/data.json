@@ -1,0 +1,21 @@
+{
+  "Basics": {
+		"name": "Apparao Swami K",
+		"role": "Front-end Web-Developer",
+		"location": "Visakhapatnam, AndhraPradesh",
+		"mobile": "+91 9603487813",
+		"email": "kaswami507@gmail.com",
+    "Exp":["Trained more than 1k students on WebDesigning through out AndhraPradesh",
+      "Trained more than 1k students on PWA concepts(Responsive Web Designing,Service worker,IndexedDB,Manifestfile)",
+    "Trained more than 200 students on Python concepts [Strings,lists,Pandas,matplotlib,Numpy]"
+  ],
+  "Achievements":"Udacity Front-end Nanodegree Graduate.",
+  "Skill":{
+    "languages":["HTML5","CSS3","JavaScript(ES-6)"],
+    "libraries":["Jquery","ReactJS"],
+    "databases":["Sql","Mysql"],
+    "frameworks":["Bootstrap","Jasmine"]
+  },
+  "Education":" Post-Graduation-Completed M.Tech in Kakinada Institute of Engineering & Technology in 2019 "
+  }
+}
