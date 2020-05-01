@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f95aa3e56c3eac72a96bf32006f953dc",
+    "revision": "2a20056d7e77c0a8d8845b7916a9ccf6",
     "url": "/swami-react-profile/index.html"
   },
   {
-    "revision": "1ef9d6d36d09995c2aab",
+    "revision": "b40b0e5e344365c23b2f",
     "url": "/swami-react-profile/static/css/main.65dbbe81.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/swami-react-profile/static/js/2.f8affbbe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ef9d6d36d09995c2aab",
-    "url": "/swami-react-profile/static/js/main.2c23768d.chunk.js"
+    "revision": "b40b0e5e344365c23b2f",
+    "url": "/swami-react-profile/static/js/main.d60a8fd5.chunk.js"
   },
   {
     "revision": "ddfc8be36094e3437f59",

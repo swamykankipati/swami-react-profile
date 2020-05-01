@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/swami-react-profile/static/css/main.65dbbe81.chunk.css",
-    "main.js": "/swami-react-profile/static/js/main.2c23768d.chunk.js",
-    "main.js.map": "/swami-react-profile/static/js/main.2c23768d.chunk.js.map",
+    "main.js": "/swami-react-profile/static/js/main.d60a8fd5.chunk.js",
+    "main.js.map": "/swami-react-profile/static/js/main.d60a8fd5.chunk.js.map",
     "runtime-main.js": "/swami-react-profile/static/js/runtime-main.1aeb85c4.js",
     "runtime-main.js.map": "/swami-react-profile/static/js/runtime-main.1aeb85c4.js.map",
     "static/js/2.f8affbbe.chunk.js": "/swami-react-profile/static/js/2.f8affbbe.chunk.js",
     "static/js/2.f8affbbe.chunk.js.map": "/swami-react-profile/static/js/2.f8affbbe.chunk.js.map",
     "index.html": "/swami-react-profile/index.html",
-    "precache-manifest.eb0e47edf0785c656d211abe83352d9e.js": "/swami-react-profile/precache-manifest.eb0e47edf0785c656d211abe83352d9e.js",
+    "precache-manifest.744885d4af684983bef4ccd8440aae1a.js": "/swami-react-profile/precache-manifest.744885d4af684983bef4ccd8440aae1a.js",
     "service-worker.js": "/swami-react-profile/service-worker.js",
     "static/css/main.65dbbe81.chunk.css.map": "/swami-react-profile/static/css/main.65dbbe81.chunk.css.map",
     "static/js/2.f8affbbe.chunk.js.LICENSE.txt": "/swami-react-profile/static/js/2.f8affbbe.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1aeb85c4.js",
     "static/js/2.f8affbbe.chunk.js",
     "static/css/main.65dbbe81.chunk.css",
-    "static/js/main.2c23768d.chunk.js"
+    "static/js/main.d60a8fd5.chunk.js"
   ]
 }
