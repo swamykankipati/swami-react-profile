@@ -54,10 +54,16 @@ class Mydata extends Component {
              return <span> {db} </span>
         })}
          </section>
+         <hr/>
          <section style={styles1}>
          <h2>Education:</h2>
+
          <ul>
-         <li>{Data.Basics.Education}</li>
+         <h6>{Data.Basics.Education}</h6><hr/>
+         <h6>{Data.Basics.bt}</h6><hr/>
+         <h6>{Data.Basics.in}</h6><hr/>
+         <h6>{Data.Basics.ssc}</h6><hr/>
+
          </ul>
          </section>
 

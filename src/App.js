@@ -20,7 +20,7 @@ class App extends React.Component  {
       <div className="card-body">
                 <img src={Profile} alt="Profile_Pic"/>
                 <h4>Apparao Swami K</h4>
-                <Link to="/Resume" className="btn btn-primary btn-block btn-sm" style={styles}> View Profile </Link>
+                <Link to="/swami-react-profile" className="btn btn-primary btn-block btn-sm" style={styles}> View Profile </Link>
 
       </div>
       </div>

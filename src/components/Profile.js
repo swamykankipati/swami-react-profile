@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
 import '../css/bootstrap.min.css';
 import '../App.css';
-import Pic from '../img/profile.png';
+import Pic from '../img/swa.jpg';
 import Data from '../data/data.json';
 
 class Profile extends Component{

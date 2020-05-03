@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Link Output
-[link]("https://swamykankipati.github.io/swami-react-profile)
+[link](https://swamykankipati.github.io/swami-react-profile)
 ## Available Scripts
 
 In the project directory, you can run:
